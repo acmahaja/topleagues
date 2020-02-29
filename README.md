@@ -12,6 +12,7 @@ Chrome/New Edge/Opera/Firefox/Edge
 Discord
 Github Projects
 Google Cloud
+Google Web Designer
 ```
 
 ## Implemented Leagues
