@@ -10,15 +10,19 @@ Git/GitHub
 VSCode
 Chrome/New Edge/Opera/Firefox/Edge
 Discord
+Trello
 Google Cloud
 ```
+
 ## Implemented Leagues
 |   Sports Leagues     |   E-Sports Leagues  |
 |   -------------      |   -------------     |
-|```Premier League```  | ```RAINBOW SIX: SIEGE PRO LEAGUE```|
-|```EFL Championship```| ```League of Legends World Championship```|
+|                      |                     |
 
 ## Future Leagues
+###### In Development
+- [ ] Premier League
+
 ###### Inorder of Priority
 - [ ] Premier League
 - [ ] RAINBOW SIX: SIEGE PRO LEAGUE
