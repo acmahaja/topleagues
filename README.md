@@ -10,7 +10,7 @@ Git/GitHub
 VSCode
 Chrome/New Edge/Opera/Firefox/Edge
 Discord
-Trello
+Github Projects
 Google Cloud
 ```
 
