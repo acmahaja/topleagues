@@ -17,7 +17,7 @@ Google Cloud
 ## Implemented Leagues
 |   Sports Leagues     |   E-Sports Leagues  |
 |   -------------      |   -------------     |
-|                      |                     |
+|         ❓           |          ❔          |
 
 ## Future Leagues
 ###### In Development
