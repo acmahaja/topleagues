@@ -33,11 +33,11 @@ Google Cloud
 - [ ] La Liga
 - [ ] Seria A
 
-###### Want To Suggest More Leagues?! Look at DM information Below
+Want To Suggest More Leagues?! Look at DM information Below
 
 ### Stretch Goals
 - [ ] Ready for Euro 2020
 - [ ] Ready for 2020 Copa América
 
-###
-Want to Help? Contact me on Discord: acmahaja#0052
+
+###### Want to Help? Contact me on Discord: acmahaja#0052
