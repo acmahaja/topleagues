@@ -35,7 +35,7 @@ Google Cloud
 
 Want To Suggest More Leagues?! Look at DM information Below
 
-### Stretch Goals for July
+#### Stretch Goals for July
 - [ ] Ready for Euro 2020
 - [ ] Ready for 2020 Copa América
 
