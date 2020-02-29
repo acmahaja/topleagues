@@ -35,13 +35,13 @@ Google Cloud
 
 Want To Suggest More Leagues?! Look at DM information Below
 
-### Stretch Goals
+### Stretch Goals for July
 - [ ] Ready for Euro 2020
 - [ ] Ready for 2020 Copa América
 
 
-###### Want to Help? 
-##### Contact me on Discord:
+###### Want to suggest more leagues, features or share advice? 
+##### Wow Thanks! Contact me on Discord below:
 acmahaja#0052
 
 349311189454553092                 
